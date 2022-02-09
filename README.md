@@ -10,7 +10,7 @@ Check it out on: https://waveportal-starter-project.azizmosbah.repl.co/
 
 It is actually deployed on ethereum's test network rinkeby in order for it not to cost any money.
 
-Here are the steps to participated:
+Here are the steps to participate:
 
   1.  Get Metamask & set it on the rinkeby network
   2.  Ask for ETH on this faucet: https://faucets.chain.link/rinkeby
